@@ -12,7 +12,7 @@ Switch is not a wrapper here: it is where humans and agents share context, hand 
 
 ## Links to supply before submitting
 
-- Repository: `REPLACE_WITH_GITHUB_REPO_URL`
+- Repository: `https://github.com/LENGND123/signal-dock`
 - Demo video: `REPLACE_WITH_VIDEO_URL`
 - Live dashboard: `REPLACE_WITH_DEPLOYED_URL`
 

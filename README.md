@@ -4,6 +4,8 @@
 
 **Track:** Best Business Workflow · **Status:** demo-ready · **Core principle:** agents can recommend; people decide.
 
+**Repository:** [github.com/LENGND123/signal-dock](https://github.com/LENGND123/signal-dock)
+
 ## The 30-second pitch
 
 Teams make delivery promises in chat, but the evidence needed to keep those promises is scattered across updates, owners, and dependencies. SignalDock converts a risky update into a shared, evidence-backed decision pack in the same Switch room—then waits for a human approval before creating an owner-ready handoff.
