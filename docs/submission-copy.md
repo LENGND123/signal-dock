@@ -13,8 +13,13 @@ Switch is not a wrapper here: it is where humans and agents share context, hand 
 ## Links to supply before submitting
 
 - Repository: `https://github.com/LENGND123/signal-dock`
-- Demo video: `REPLACE_WITH_VIDEO_URL`
-- Live dashboard: `REPLACE_WITH_DEPLOYED_URL`
+- Demo video: `https://github.com/LENGND123/signal-dock/blob/main/media/signaldock-live-workflow-demo.mp4`
+- Live dashboard: run locally with `python -m http.server 4173 --directory dist`, then open `http://127.0.0.1:4173`
+
+The two-minute demo shows the live interactive SignalDock workflow: Scout surfaces explicit
+commitments, Verifier labels evidence and risk, Coordinator creates a decision pack, and a
+human approval remains the final gate. The project also includes the reproducible Switch
+workflow template in `templates/signaldock.template.yaml`.
 
 ## Suggested social post
 

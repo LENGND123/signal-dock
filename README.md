@@ -105,8 +105,8 @@ Human update in Slack / Mattermost / Discord / Teams
 
 ## Submission checklist
 
-- [ ] Public repository URL
-- [ ] 2–3 minute unlisted demo video (show the real Switch room, then the approval)
+- [x] Public repository URL — <https://github.com/LENGND123/signal-dock>
+- [x] 2-minute interactive workflow demo — [watch it on GitHub](media/signaldock-live-workflow-demo.mp4)
 - [ ] This README
 - [ ] Deploy or host the dashboard as a visual companion
 - [ ] Mention the Business Workflow track
